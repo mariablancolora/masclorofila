@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'bodytype';
+    src: url('../fonts/Josefin_Sans/JosefinSans-Regular.ttf') format('truetype');
+    src: url('../fonts/Josefin_Sans/JosefinSans-Regular?#iefix') font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'title';
+    src: url ('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'title';
+}
