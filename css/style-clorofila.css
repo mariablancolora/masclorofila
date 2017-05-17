@@ -7,7 +7,7 @@
 
 @font-face {
     font-family: 'title';
-    src: url ('https://fonts.googleapis.com/css?family=Gloria+Hallelujah');
+    src: url('../fonts/Gloria_Hallelujah/GloriaHallelujah.ttf');
     font-weight: normal;
     font-style: normal;
 }
@@ -17,3 +17,7 @@ h2,
 h3 {
     font-family: 'title';
 }
+
+
+
+[12:50] index.html add this under title: 
